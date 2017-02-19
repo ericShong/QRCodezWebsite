@@ -7,3 +7,5 @@ const AdSchema = mongoose.Schema({
 });
 
 module.exports = mongoose.model('Ad', AdSchema)
+
+//Gap, traderjoes
